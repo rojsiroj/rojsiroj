@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rojsiroj
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning vuejs 3 and sveltejs
-- 💞️ I’m looking to collaborate with other web developers
+- 👀 I’m interested in web development, decentralized technologies, and AI 
+- 🌱 I’m currently learning web3 and other decentralized technologies
+- 💞️ I’m looking to collaborate with other developers, any technologies
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rojsiroj/) | [Instagram](https://www.instagram.com/rojsiroj_/) | [Mail](mailto:sirojudin.dev@gmail.com)
 
 <!---
